@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-# Force CoffeeScript 1.8.0 version: bundle update coffee-script-source
+# Update CoffeeScript 1.8.0 version: bundle update coffee-script-source
 gem 'coffee-script-source', '1.8.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
